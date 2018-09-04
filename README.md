@@ -1,2 +1,2 @@
-# DaviesBurgers_SampleSite_CA
+# davies-burgers-website
 Sample Site of a hamburger restaurant
